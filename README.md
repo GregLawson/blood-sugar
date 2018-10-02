@@ -5,7 +5,11 @@ Inspired by Jenny Ruhl's books [Blood Sugar 101](https://smile.amazon.com/Blood-
 
 The target audience is people with abnormal blood sugar, including a majority of adults ([UCLA study](http://newsroom.ucla.edu/releases/majority-of-california-adults-have-prediabetes-or-diabetes)).
 
-[Math Model](https://github.com/GregLawson/blood-sugar/blob/master/doc/Bloody%20ketogenic%20diet%20relations.odg?raw=true)
+![Math model](doc/Bloody%20ketogenic%20diet%20relations.svg)
+
+[Download Math Model](https://github.com/GregLawson/blood-sugar/blob/master/doc/Bloody%20ketogenic%20diet%20relations.odg?raw=true)
+
+[Edit Math Model](doc/Bloody%20ketogenic%20diet%20relations.odg)
 
 # References
 [Blood Sugar 101 website](https://www.bloodsugar101.com/)
