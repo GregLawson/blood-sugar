@@ -11,6 +11,8 @@ The target audience is people with abnormal blood sugar, including a majority of
 
 [Circadium rhythyms in blood glucose](https://academic.oup.com/edrv/article/18/5/716/2530790)
 
+[Quantitative approaches to energy and glucose homeostasis: machine learning and modelling for precision understanding and prediction.](https://www.ncbi.nlm.nih.gov/pubmed/29367240)
+
 [Open source artificial pancreas](https://openaps.org/what-is-openaps/)
 
 [Nightscout diabetes server](http://www.nightscout.info/)
@@ -27,6 +29,8 @@ G.(t)=−a1G(t)−a2I(t)+J(t)
 I.(t)=a3G(t)−a4I(t)
 
 # Editing
-https://github.com/GregLawson/Open-Table-Explorer/wiki/2.3.-Tool-Integration
+[Github tool integration](https://github.com/GregLawson/Open-Table-Explorer/wiki/2.3.-Tool-Integration)
 
-https://daringfireball.net/projects/markdown/syntax
+[Fireball git markdown with embedded HTML](https://daringfireball.net/projects/markdown/syntax)
+
+Link formats [[]] for github local and [title](url)
