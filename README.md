@@ -7,7 +7,9 @@ The target audience is people with abnormal blood sugar, including a majority of
 
 ![Math model](doc/Bloody%20ketogenic%20diet%20relations.svg)
 
-[Edit Math Model](https://github.com/GregLawson/blood-sugar/blob/master/doc/Bloody%20ketogenic%20diet%20relations.odg?raw=true)
+[Download Math Model](https://github.com/GregLawson/blood-sugar/blob/master/doc/Bloody%20ketogenic%20diet%20relations.odg?raw=true)
+
+[Edit Math Model](doc/Bloody%20ketogenic%20diet%20relations.odg)
 
 # References
 [Blood Sugar 101 website](https://www.bloodsugar101.com/)
