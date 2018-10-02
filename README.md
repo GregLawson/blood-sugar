@@ -33,4 +33,6 @@ I.(t)=a3G(t)−a4I(t)
 
 [Fireball git markdown with embedded HTML](https://daringfireball.net/projects/markdown/syntax)
 
+[Writing on Github](https://help.github.com/categories/writing-on-github/)
+
 Link formats [[]] for github local and [title](url)
