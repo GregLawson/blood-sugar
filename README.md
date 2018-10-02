@@ -1,7 +1,7 @@
 # blood-sugar
 Development of a mathematical model of blood sugar, diet, exersize.
 
-Inspired by Jenny Ruhl's books Blood Sugar 101, Diet 101, and the scientific research she has uncovered.
+Inspired by Jenny Ruhl's books [Blood Sugar 101](https://smile.amazon.com/Blood-Sugar-101-About-Diabetes/dp/0964711664/ref=sr_1_3?s=books&ie=UTF8&qid=1538472354&sr=1-3&keywords=jenny+ruhl+books) and [Diet 101](https://smile.amazon.com/Diet-101-Truth-About-Diets/dp/0964711656/ref=sr_1_1?s=books&ie=UTF8&qid=1538472354&sr=1-1&keywords=jenny+ruhl+books), and the scientific research she has uncovered.
 
 The target audience is people with abnormal blood sugar, including a majority of adults ([UCLA study](http://newsroom.ucla.edu/releases/majority-of-california-adults-have-prediabetes-or-diabetes)).
 # References
